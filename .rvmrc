@@ -1,0 +1,3 @@
+rvm use 1.8.7@rails3
+export GIVA_EMAIL_PASSWORD="vOFaZFW5TCMx3TaK"
+export GIVA_DEVELOPMENT_EMAIL="csexton@gmail.com"
