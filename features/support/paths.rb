@@ -10,7 +10,7 @@ module NavigationHelpers
 
     when /the home\s?page/
       '/'
-    when /the list of items/
+    when /the place with them items/
       items_path
       
 
