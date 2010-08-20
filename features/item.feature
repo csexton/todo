@@ -10,7 +10,6 @@ Scenario: Creating an item
   And I fill in "Subject" with "Get integration tests working"
   And I press "Create"
   Then I should see "Item was successfully created."
-  And I should see "integration tests working"
   And I should see "Booya"
   And I should have 1 item
 
